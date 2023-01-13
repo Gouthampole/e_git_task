@@ -1,1 +1,2 @@
 this is file 4 in feature created after rebasing for commit5
+new line added for commit 6
